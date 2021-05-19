@@ -16,3 +16,5 @@ Database contains two Tables- usersdetails Table & transaction_history Table
 Flow of the Website: Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History
 
 The data base credentials can be seen in connection.php
+
+URL: http://basicbankigsystem.epizy.com/

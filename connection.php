@@ -1,6 +1,6 @@
 <?php 
 
-$server="https://thesparksfoundationitsolution.000webhostapp.com/";
+$server="localhost";
 $username="root";
 $password="";
 $db="the_sparks";
